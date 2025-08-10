@@ -1,0 +1,13 @@
+pandas
+numpy
+regex
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+scipy
+torch
+sentence-transformers
+faiss-cpu
+tqdm
+joblib
