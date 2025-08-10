@@ -11,3 +11,9 @@ sentence-transformers
 faiss-cpu
 tqdm
 joblib
+
+
+##Later when you add flask
+flask
+flask-cors
+python-dotenv
